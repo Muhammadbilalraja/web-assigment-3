@@ -1,0 +1,256 @@
+
+}
+h1, h2,h3 {
+  color: rgb(56, 136, 241); 
+  }
+  span{
+  color: rgb(33, 160, 75)
+  }
+
+#main{
+    color: whitesmoke;
+    background-color:#3498DB;
+   
+    padding: 10px;
+    text-align:center;
+    align-content: center;
+    height: 100px;
+   
+    }
+
+
+.button{
+  color: greenyellow;
+
+    margin: 10px;
+}
+.text{
+    margin: 10px;
+}
+
+#saylanilogo1{
+    position: relative;
+    top: 10px;
+  }
+
+
+
+.navbar {
+  overflow: hidden;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  cursor: pointer;
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.show {
+  display: block;
+  
+
+
+
+
+#contanior ul H{
+    display: none;
+}
+#contanior ul H{
+    margin-left: 300px;
+    margin-right: 300px;
+    display: inline;
+    display: -ms-inline-flexbox;
+
+}
+
+img.2 {
+    position: relative;
+    top: 10px 5px 5px 10px;
+    right: 10%;
+}
+
+  box-sizing: border-box ;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Float three columns side by side */
+.column {
+  float: initial;
+  width: 30%;
+  padding: 0 20px;
+  display:inline-table;
+  flex-direction: column;
+  justify-content: space-between;
+  
+}
+
+.row {margin: 0 -2px;}
+
+.row:after {
+     content: "";
+     display: table;
+      clear: both;
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 35px;
+  margin-top: 35px;
+  text-align: center;
+  background-color: #ffffff;
+}
+
+
+
+.sylwrk{
+  color: #ffffff;
+  background-color: rgb(52, 52, 255);
+
+
+  }
+
+.sylwrk{
+  margin:50px;
+  float: initial;
+  display: inline-table;
+  text-align: center;
+  height: 200px;
+}
+
+.nomi {
+  float: initial;
+  width: 30%;
+  padding: 10px;
+  margin: 10px;
+  display:inline-table;
+  box-shadow: initial;
+  background-color: whitesmoke;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+#pera{
+  text-align:justify;
+word-spacing: 2px;
+margin: 20px 70px 20px 70px;
+letter-spacing: 1px;
+}
+
+
+
+.img4{
+  display: flex;
+  margin: 5px;
+  padding: 3px;
+  text-align: center;
+  
+}
+
+
+.last{
+  background-color: rgb(46, 41, 41);
+  padding: 20px;
+  width:100%;
+  display: inline-flex;
+  justify-content: space-around;
+  text-align: center;
+  
+}
+p{
+  color: rgb(245, 234, 234);
+}
+h3{
+  color:rgb(245, 234, 234);
+  justify-content: center;
+}
+.line{
+  padding: 20px;
+  display: inline-flex;
+  
+}
+
+
+
+
+.copy{
+  background-color: #3498DB;
+  padding: 15px;
+  width: 100@%;
+  height: 40px;
+
+
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width:400px){
+  *{ width: 720px;
+
+  }
+}
+
+
+
+
+
+
+
+
+
